@@ -1,0 +1,450 @@
+// Common
+
+"Cancel" = "Odustani";
+"Yes" = "Da";
+"No" = "Ne";
+"OK" = "OK";
+"Error" = "Greška";
+"Edit" = "Uredi";
+"Close" = "Zatvori";
+"Done" = "Uradjeno";
+"Clear" = "Obriši";
+"An Error Occurred" = "Pojavila se greška";
+"Dismiss" = "Poništi";
+
+// Home
+
+"Home" = "Početna";
+"Info" = "Info";
+"Welcome to Zebra!" = "Dobro došli u Zebru!";
+"Report a Bug" = "Prijavi gresku";
+"Changelog" = "Promene";
+"Wish List" = "Lista želja";
+"Newest First" = "Noviji prvo";
+"Oldest First" = "Stariji prvo";
+"No items in Wish List" = "Nema stavki u listi Želja";
+"Community" = "Zajednica";
+"Join our Discord" = "Pridruži nam se na Discord";
+"Follow us on Twitter" = "Pratite nas na Twitter-u";
+"Help translate Zebra!" = "Pomognite u prevodjenju Zebre!";
+
+// Community Source
+
+"Community Sources" = "Izvori Udruženja";
+"You’ve added all of the community sources" = "Dodali ste sve izvore udruženja";
+"Transfer sources from %@ to Zebra" = "Prebaci sve izvore %@ u Zebru";
+"Transfer Sources" = "Prebaci izvore";
+"Import" = "Uvеzi";
+"Verifying…" = "Verifikacija…";
+"Confirm Import" = "Potvrdi uvoz";
+"Import Sources" = "Uvezi Izvore";
+"No sources to import" = "Nema izvora za importovanje";
+"Would you like to import the following sources?" = "Da li želite uvesti sledeće ozvore?";
+"Are you sure that you want to import 1 source into Zebra?" = "Jeste li sigurni da ćete uvesti 1 izvor u Zebru?";
+"Are you sure that you want to import %d sources into Zebra?" = "Jeste li sigurni da ćete uvesti %d izvore u Zebru?";
+
+// Credits
+
+"Credits" = "Zasluge";
+"Creators" = "Kreatori";
+"Contributors" = "Saradnici";
+"Translators" = "Prevodioci";
+"Libraries" = "Biblioteke";
+
+// Settings
+
+"Settings" = "Podešavanja";
+"Display" = "Prikaz";
+"App Icon" = "Ikona aplikacije";
+"Changes" = "Izmene";
+"Community News" = "Vesti iz Udruženja";
+"Miscellaneous" = "Detalji";
+"Swipe Actions Display As" = "Prevlačenje prikaži kao";
+"Text" = "Tekst";
+"Icon" = "Ikonica";
+"Finish Automatically" = "Završi automatski";
+"Always Install Latest" = "Uvek instaliraj Najnovije";
+"Automatic Refresh" = "Automatski osveži";
+
+// Accent Colors
+
+"Accent Color" = "Naglašena boja";
+"Aqua Velvet" = "Vodeni somot";
+"Cornflower Blue" = "Kukuruzno plava";
+"Golden Tainoi" = "Zlatni Tainoi";
+"Iris Blue" = "Irska plava";
+"Lotus Pink" = "Lotus roze";
+"Monochrome" = "Jednobojna";
+"Mountain Meadow" = "Planinska livada";
+"Pastel Red" = "Pastelno crvena";
+"Purple Heart" = "Purpurno srce";
+"Royal Blue" = "Kraljevska plava";
+"Shark" = "Ajkula";
+"Storm" = "Oluja";
+"Use System Accent Color" = "Koristite sistemsku akcetnu boju";
+"Appearance" = "Izgled";
+"Use System Appearance" = "Koristi izgled sistema";
+"Light" = "Svetlo";
+"Dark" = "Tamno";
+"Pure Black Mode" = "Cisto crni mod";
+
+// Featured
+
+"Featured Packages" = "Istaknuti Paketi";
+"Feature Type" = "Istaknuti tip";
+"Repo Featured" = "Istaknuti repo";
+"Random" = "Nasumično";
+"Select Repos to be Featured" = "Izaberi Repo da bude istaknut";
+
+// Reset
+
+"Reset" = "Resetuj";
+"Refresh Icon Cache" = "Osveži keš";
+"Clear Image Cache" = "Ukloni keš slika";
+"Clear Sources Cache" = "Ukloni keš izvora";
+"Clear Web Cache" = "Ukloni web keš";
+"Reset All Settings" = "Resetuj sva podešavanja";
+"Erase All Sources" = "Izbriši sve izvore";
+"Erase All Sources and Settings" = "Obriši sve izvore i podešavanja";
+
+"Are you sure you want to restart the SpringBoard?" = "Da li ste sigurni da ćete da resetujete SpringBoard?";
+"Are you sure you want to refresh the icon cache? Your device may become unresponsive until the process is complete." = "Da li ćete sigurno da restartujete keš ikonica? Uredjaj može usporiti ili ukočiti dok se proces ne završi.";
+"Image Cache Cleared" = "Keš slika uklonjen";
+"Web Cache Cleared" = "Web keš uklonjen";
+"Are you sure you want to reset Zebra's source cache? This will remove all cached information from Zebra's database and redownload it. Your sources will not be deleted." = "Da li ćete sigurno da resetujete Zebrin keš izvora? Ovo će ukloniti sve keširane informacije iz Zebrine baze i skinuti opet. Vasi izvori nece biti izbrisani.";
+"Are you sure you want to reset Zebra's settings? This will reset all of Zebra's settings back to their default values and Zebra will restart." = "Da li ste sigurni za reset Zebrinih podešavanja? Ovaj reset će vratiti podešavanja Zebre na osnovne vrednosti i restartovaće aplikaciju Zebra.";
+"Are you sure you want to erase all sources? All of your sources will be removed from Zebra and Zebra will restart." = "Da li ste sigurni za brisanje svih izvora i podešavanja? Svi vaši izvori će biti uklonjeni iz Zebre i podešavanja resetovana.";
+"Are you sure you want to erase all sources and settings? All of your sources will be removed from Zebra and your settings will be reset." = "Da li ste sigurni za brisanje svih izvora i podešavanja? Svi vaši izvori će biti uklonjeni iz Zebre i podešavanja resetovana.";
+"All of your sources will be deleted and be gone forever and Zebra will restart." = "Svi vaši izvori će biti izabrani za uvek i aplikacija Zebra će se restartovati.";
+
+// Documents Directory
+
+"Open Documents Directory" = "Otvori folder dokumenata";
+"Filza Not Installed" = "Filza nije instalirana";
+"Zebra cannot open its documents directory because Filza is not installed. Your documents directory is: %@" = "Zebra ne može da otvori ovaj direktorijum zato sto Filza nije instalirana. Direktorijum je: %@";
+
+// Stores
+
+"Stores" = "Prodavnice";
+"My Account" = "Moj nalog";
+"Sign In" = "Prijavite se";
+"Sign Out" = "Odjavi se";
+"Your Purchases" = "Vaše kupovine";
+"No Storefronts Available" = "Nema dostupnih prodavnica";
+"Could not authenticate" = "Nemoguće potvrditi";
+"Could not complete purchase" = "Nije moguće zavrsiti kupovinu";
+"No packages purchased" = "Nema kupljenih paketa";
+"Signed in as %@" = "Prijavljeni ste kao (%@";
+"Signed in as %@ (%@)" = "Prijavljeni ste kao %@ (%@)";
+
+// Sources
+
+"Sources" = "Izvori";
+"Unknown" = "Nepoznato";
+"Delete" = "Izbriši";
+"Refresh" = "Osveži";
+"All Packages" = "Svi paketi";
+"Remove Source" = "Ukloni izvor";
+"Local File" = "Lokalni fajl";
+"Local Repository" = "Lokalni Repo";
+"Locally installed packages" = "Lokalno instalirani paketi";
+
+"Add" = "Dodaj";
+"View" = "Pregled";
+"Add Sources" = "Dodaj Repo";
+"Add Multiple…" = "Dodaj više";
+"Enter Source URL" = "Unesite URL Repoa";
+"Would you like to add the URL from your clipboard?" = "Da li želite da dodate Repo iz clipborda?";
+
+"Please Wait…" = "Molimo vas sačekajte…";
+"Updating Sources" = "Nadograđivanje izvora";
+
+"Invalid URL" = "Nepravilan URL";
+"Invalid Source" = "Pogrešan izvor";
+"Tap to learn more" = "Dodirni za više informacija";
+"Unable to verify source" = "Nismo u mogućnosti da verifikujemo izvore";
+"Failed to add source" = "Neuspelo dodavanje repoa";
+"Failed to add sources" = "Neuspelo dodavnje repoa";
+"You have already added this source." = "Već ste dodali ove repoe.";
+"Unable to locate an APT repository at:" = "Nije moguće locirati APT repo na:";
+"Unable to locate APT repositories at:" = "Nije moguće locirati APT repo na:";
+"Error while downloading %@: %@" = "Greška prilikom preuzimanja %@: %@";
+
+"A total of %lu files will be downloaded" = "Ukupno %lu fajlova će biti skinuto";
+
+"Could not parse %@ from %@" = "Nismo u mogućnosti rasčlaniti %@ iz %@";
+"Could not find a download URL for" = "Nismo u mogućnosti pronaći URL za preuizmanje";
+"Authorizing Download for %@" = "Autorizovano skidanje za %@";
+"Couldn't authorize download for %@." = "Nije moguće autorizovati skidanje za %@.";
+"Reason: %@" = "Razlog: %@";
+"Could not download Release file from %@. Reason: %@" = "Nije moguće skinuti Paket sa %@. Razlog: %@";
+"Could not download Packages file from %@. Reason: %@" = "Nije moguće skinuti Paket sa %@. Razlog: %@";
+"Could not download one or more files from %@. Reason: %@" = "Nije moguće skinuti jedan ili više Paketa sa %@. Razlog: %@";
+
+"Error while moving file at %@ to %@" = "Greška prilikom premeštanja fajla sa %@ na %@";
+
+"The URL you entered is not valid. Please check it and try again." = "Url koji ste uneli je netačan. Proverite i pokušajte opet.";
+
+"Zebra was unable to download the source specified at %@. It may be temporarily inaccessible or could have been added incorrectly." = "Zebra nije u mogućnosti da skida sa izvora %@. Ili je trenutno nedostupan ili je nepravilno dodat.";
+
+
+
+
+
+"Install All" = "Instaliraj sve";
+
+// Packages
+
+"Latest" = "Najnovije";
+"Version" = "Verzija";
+"Packages" = "Paketi";
+"Show Updates" = "Prikaži nadogradnje";
+"Hide Updates" = "Sakrij nadogradnje";
+"Select Version" = "Izaberi verziju";
+"Select a version to install:" = "Izaberi verziju za instalaciju:";
+"Select a version to upgrade to:" = "Izaberi verziju za nadogradnju:";
+"Select a version to downgrade to:" = "Izaberi stariju verziju za instaliranje:";
+"Upgrade All" = "Nadogradi sve";
+"Loaded" = "Učitano";
+"ABC" = "ABC";
+"Date" = "Datum";
+"Size" = "Veličina";
+"Available Upgrades" = "Dostupne nadogradnje";
+"Recent" = "Skorašnji";
+"Source" = "Izvor";
+"Installed Files" = "Instalirani fajlovi";
+"Modify" = "Izmeni";
+"Authenticate to initiate purchase." = "Priavute se za početak kupovine.";
+"Please relogin your account that is used to purchase this package (Possibly %@)" = "Molimo vas da se ponovo logujete na nalog kojim ste kupili ovaj paket (Najverovatnije %@)";
+"More by this Developer" = "Još od ovog Programera";
+
+//<Version available from source> (Installed Version: <Installed Version>)
+"%@ (Installed Version: %@)" = "%@ (Instalirana verzija: %@)";
+
+//<Download size> (Installed Size: <installed size>)
+"%@ (Installed Size: %@)" = "%@ (Instalirano veličina: %@)";
+
+"Add to Wish List" = "Dodaj u listu želja";
+"Remove from Wish List" = "Ukloni iz liste želja";
+
+// Package Section Names
+
+"Administration" = "Administracija";
+"Addons" = "Dodaci";
+"App Addons" = "Dodaci za Aplikacije";
+"Archiving" = "Arhiviranje";
+"Carrier Support" = "Podrška za operatera";
+"Communication" = "Komunikacije";
+"Data Storage" = "Skladište podataka";
+"Development" = "Razvoj";
+"Dictionaries" = "Rečnici";
+"Education" = "Edukacija";
+"Entertainment" = "Zabava";
+"Games" = "Igre";
+"Health and Fitness" = "Zdravlje i Fitnes";
+"Imaging" = "Sistem za obradu slike";
+"Java" = "Java";
+"Keyboards" = "Tastature";
+"Localization" = "Lokalizacija";
+"Messaging" = "Slanje poruka";
+"Multimedia" = "Multimedija";
+"Navigation" = "Navigacija";
+"Networking" = "Umrežavanje";
+"Packaging" = "Pakovanje";
+"Productivity" = "Produktivnost";
+"Repositories" = "Spremišta";
+"Ringtones" = "Melodija zvona";
+"Scripting" = "Skripting";
+"Security" = "Sigurnost";
+"Social" = "Društvene";
+"System" = "Sistem";
+"Terminal Support" = "Terminalna podrška";
+"Text Editors" = "Text Uređivači";
+"Themes" = "Teme";
+"Toys" = "Igračke";
+"Tweaks" = "Tvik";
+"Utilities" = "Korisne";
+"Wallpaper" = "Pozadina";
+"Widgets" = "Dodaci";
+
+// Search
+
+"Search" = "Pretraga";
+"No Results Found" = "Nema rezultata";
+"Name" = "Imе";
+"Description" = "Opis";
+"Author" = "Autor";
+
+// Console
+
+"Console" = "Konzola";
+"Performing Actions…" = "Izvršavam akcije…";
+"Updating icon cache asynchronously…" = "Nadogradjujem keš ikona asinhrono…";
+"uicache is not available on the simulator" = "uicache nije dostupan u simulatoru";
+"Close Zebra" = "Zatvori Zebru";
+"Closing Zebra…" = "Zebra se zatvara…";
+"Restart SpringBoard" = "Restartuj SpringBoard";
+"Restarting SpringBoard…" = "Restartuje se SpringBoard…";
+"Parsing %@" = "Parsiram %@";
+"Starting Download" = "Preuzimanje";
+"Downloading" = "Preuzimanje";
+"Downloading %@" = "Skidam %@";
+"Downloading Packages…" = "Preuzimanje Paketa…";
+"Download Completed" = "Preuzimanje je završeno";
+"Installing" = "Instaliranje";
+"Installing Packages…" = "Instaliranje Paketa…";
+"Removing" = "Uklanjanje";
+"Removing Packages…" = "Uklanjanje Paketa…";
+"Reinstalling" = "Reinstaliranje";
+"Reinstalling Packages…" = "Reinstaliranje Paketa…";
+"Upgrading" = "Nadogradjivanje";
+"Upgrading Packages…" = "Nadogradjivanje Paketa…";
+"Complete" = "Kompletirano";
+"Finished!" = "Završeno!";
+"Return to Queue" = "Vrati se na listu Čekanja";
+"Returning to Queue…" = "Povratak na listu Čekanja…";
+"Importing local packages." = "Importovanje lokalnih paketa.";
+"Finished importing local packages." = "Završeno importovanje lokalnih paketa.";
+"One or more packages failed to download." = "Jedan ili više paketa nisu preuzeti.";
+"Click \"Return to Queue\" to return to the Queue and retry the download." = "Kliknite \"Vrati se na listu Čekanja\" da bi se vratili na listu čekanja i pomovili preuzimanje.";
+"Could not complete %@ process. Reason: %@" = "Nemoguće završiti %@ proces. Razlog: %@";
+"Done…" = "Uradjeno…";
+"Done %@" = "Urađeno %@";
+"Removing Zebra…" = "Uklanjam Zerbu…";
+"Installing Zebra…" = "Instaliram Zebru…";
+"Error while opening file:" = "Greška prikikom otvaranja fajla:";
+"Adding Payment Vendor URL for %@" = "Dodajem link za plaćanje za %@";
+"This device is simulated, here are the packages that would be modified in this stage:" = "Uređaj je u simulaciji, ovo su pakeketi koji ce biti modifikovani u ovoj fazi:";
+
+// Queue Bar
+
+"%d Packages Queued" = "%d Paketa na listi čekanja";
+"%d Package Queued" = "%d Paketa na listi čekanja";
+"Tap to manage" = "Dodirnite za podesavanje";
+"No Packages Queued" = "Nema Paketa na Čekanju";
+
+// Queue
+
+"Queue" = "Čekanje";
+"Install" = "Instaliraj";
+"Reinstall" = "Reinstaliraj";
+"Remove" = "Ukloni";
+"Upgrade" = "Nadogradi";
+"Downgrade" = "Preuzmi";
+"Download Size" = "Veličina preuzimanja";
+"Confirm" = "Potvrdi";
+"Issues" = "Problemi";
+"Required Package" = "Potrebno Pakovanje";
+"Are you sure?" = "Da li ste sigurni?";
+"Remove from Queue" = "Ukloni iz liste čekanja";
+"Clear Queue" = "Očisti stavke iz redosleda";
+"%@ is required by:" = "%@ je neophodno za:";
+"\"%@\" conflicts with %@" = "\"%@\" je u konfliktu sa %@";
+"%@ must be removed because it depends on %@" = "%@ more se ukloniti zato što zavisi od %@";
+"%@ has issues that cannot be resolved:" = "%@ ima probleme koji nisu rešivi:";
+"Are you sure you want to clear the Queue?" = "Da li ste sigurni da želite izbrisati listu Čekanja?";
+"%@ is a required package. It should NOT be removed unless you know exactly what you are doing!" = "%@ je neophodan paket. Nije poželjno ukloniti ga osim ako znate šta radite!";
+
+// Search
+
+"Live Search" = "Pretraga uživo";
+"Tweaks, Themes, and More" = "Tvikovi, teme i jos puno";
+
+//<first package> is being removed because it depends on <second package>. <second package> should not be removed unless you know what you are doing.
+"%@ is a required package and must be removed because it depends on %@. %@ should NOT be removed unless you know exactly what you are doing!" = "%@ Je neophodan i mora biti uklonjen zato što zavisi od%@. %@ ne bi trebalo ukloniti osim ako znate šta radite!";
+
+"One or more of the packages in the Queue for removal is essential or required. It is not recommended to proceed unless you know exactly what you are doing. Removing these packages could cause irreversible damage to your device and might result in a full restore." = "Jedan ili više paketa u Listi za deinstaliranje je esencijalan i potreban. Nije preporučeno da se ukloni osim ako znate šta radite! Uklanjanje ovih paketa može izazvati nepopravljive greške na vašem uredjaju.";
+
+"Zebra was unable to complete this command because it does not have the proper permissions. Please verify the permissions located at %@ and report this issue on GitHub." = "Zebra nije u mogućnosti da završi komandu zato što ne poseduje ovlašćenja. Molimo vas verifikuje ovlašćenja nad %@ i prijavite problem. A GitHub -u.";
+
+
+"su/sling is not owned by root:wheel. Please verify the permissions of the file located at %@." = "su/sling ne pripada korisniku root:wheel. Please verify Molimo vas proverite ovlašćenja nad fajlovima u folderu %@.";
+
+"su/sling does not have permission to set the uid or gid. Please verify the permissions of the file located at %@." = "su/sling ne pripada korisniku root: wheel. Please verify Molimo vas proverite ovlašćenja nad fajlovima u folderu %@.";
+
+"Error while creating documents directory: %@" = "Greška prilikom kreiranja direktorijuma: %@";
+
+"Error while creating lists directory: %@" = "Greška prilikom kreiranja direktorijuma liste: %@";
+
+"Error while creating sources.list: %@" = "Greška prilikom kreiranja sources.list: %@";
+
+"Error while creating debs directory: %@" = "Greška prilikom kreiranja debs direktorijuma: %@";
+
+"Could not respring. Please respring manually." = "Ne može se respringovati. Molimo vas probajte manuelno.";
+
+"ERROR: Unable to lock status file. Please try again." = "Greška: Nije moguće zaključati status fajla. Molimo vas probajte opet.";
+
+"ERROR: Process must be restarted. Please try again." = "Greška: Proces se mora restartovat. Molimo vas probajte opet.";
+
+
+"Could not determine device information." = "Nismo u mogućnosti ustanoviti informacije uredjaja.";
+
+"Display featured packages on the homepage." = "Prikaži istaknute pakete na početnoj stranici.";
+
+"Refresh Zebra's sources when opening the app." = "Osveži Zebrine izvore kada otvaraš aplikaciju.";
+
+"Display recent community posts from /r/jailbreak." = "Prikaži najnovije postove sa /r/jailbreak.";
+
+"Search packages while typing. Disabling this feature may reduce lag on older devices." = "Pretraži pakete dok kucaš. Deaktiviranje ove opcije može da smanji lag na starijim uređajima.";
+
+"Configure the appearance of table view swipe actions." = "Konfiguriši izgled prelaska prsta preko ekrana.";
+
+
+
+
+"\"Repo Featured\" will display random packages from repos that support the Featured Package API." = "“Naglašeni Repo” će prikazivati nasumične pakete iz repoa koji podržavaju API za nasumične pakete.";
+
+"\"Random\" will display random packages from all repositories that you have added to Zebra." = "“Nasumično” će prikazivati pakete od svih repoa koje ste dodali u Zabri.";
+
+"Signing in to sources allows for the purchase of paid packages." = "Registrovanje na izvorima omogućava kupovinu paketa.";
+
+"Automatically dismiss the Console when all of its tasks have been completed." = "Automatski zatvori Konzolu kada se završe svi zadaci.";
+
+"Always install the most recent version of a package if it is not already installed." = "Uvek instaliraj najnoviju verziju paketa, ako već nije instaliran.";
+
+// Filters
+
+"Filters" = "Filteri";
+"Add Filter" = "Dodaj Filter";
+
+"1 Section Hidden" = "1 odeljak skriven";
+"%lu Sections Hidden" = "%lu Delovi skriveni";
+
+"Sections" = "Odeljci";
+"Select a Section" = "Izabrri odeljak";
+"Hide packages in these sections." = "Sakri pakete iz ovog odeljka.";
+
+"Select a Source" = "Izaberi Izvor";
+"Hide packages in these sections from specific sources." = "Sakrij pakete u ovom odeljku iz specifičnog izvora.";
+
+"Updates" = "Ažuriranja";
+"Hide future updates from these packages." = "Sakrij buduća ažuriranja od ovog paketa.";
+
+"Authors" = "Autori";
+"Hide packages from these authors." = "Sakrij pakete od ovih autora.";
+"Search for an Author" = "Pronadju Autora";
+"This author also goes by the following names:" = "Autor se predstavlja ovim imenima:";
+
+// Language Settings
+
+"Language" = "Jezik";
+"Apply" = "Primeni";
+"Restart Required" = "Potrebno je ponovo pokrenuti sistem";
+"Zebra must be closed in order to change preferred language" = "Zebra se mora zatvoriti da bi promenili željeni jezik";
+"Restart" = "Ponovo pokrenite";
+"Use System Language" = "Koristi sistemski jezik";
+
+"You are adding a repository that is not secure" = "Dodajete repositoriji koji nije bezbedan";
+"Data downloaded from this repository might not be encrypted. Are you sure you want to add it?" = "Podaci skinuti sa ovog repoa nisu enkriptovani. Da li ste sigurni da ćete ga dodati?";
+
+"Unable to complete purchase" = "Nije moguće potvrditi kupovinu";
+
+"Package Not Available" = "Paket nije dostupan";
+"The package you request is no longer available. It might have been removed from your sources or the package ID requested was incorrect." = "Paket koji zahtevate nije više dostupan. Možda je uklonjen sa repo-a ili je ID paketa neispravan.";
+
+"%d Seconds" = "%d sekundi";
+"Download Timeout" = "Download je zaustavljen";
+"Configure the amount of time Zebra will wait for a source to respond before timing out." = "Konfiguriši vreme za koje će Zebra čekati Repo da odgovori na zahtev pre nego se zaustavi zahtev.";
+"This timer will reset every time Zebra receives new information from a source." = "Ovaj brojač će se resetovati svaki put kada Zebra dobije novu informaciju od Repo-a.";
+
+"Account information could not be retrieved from the source. Please sign out of the source, sign in, and try again." = "Informacije o Nalogu je nemoguće dobiti od Repo-a. Odlogujte se, pa se ponovo ulogujte na nalog";

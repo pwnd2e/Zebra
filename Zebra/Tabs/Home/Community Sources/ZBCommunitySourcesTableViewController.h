@@ -1,0 +1,17 @@
+//
+//  ZBCommunitySourcesTableViewController.h
+//  Zebra
+//
+//  Created by midnightchips on 6/30/19.
+//  Copyright © 2019 Wilson Styres. All rights reserved.
+//
+
+@import SDWebImage;
+
+#import "ZBSourceManager.h"
+
+#import "ZBTableViewController.h"
+
+@interface ZBCommunitySourcesTableViewController : ZBTableViewController
+
+@end
